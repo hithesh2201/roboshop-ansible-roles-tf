@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.hiteshshop.online # submit your host
 REDIS_HOST: redis-dev.hiteshshop.online
 MYSQL_HOST: mysql-dev.hiteshshop.online
 RABBITMQ_HOST: rabbitmq-dev.hiteshshop.online
-CATALOGUE_HOST: catalogue-dev.hiteshshop.online
-USER_HOST: user-dev.hiteshshop.online
-CART_HOST: cart-dev.hiteshshop.online
-SHIPPING_HOST: shipping-dev.hiteshshop.online
-PAYMENT_HOST: payment-dev.hiteshshop.online
-DISPATCH_HOST: dispatch-dev.hiteshshop.online
+CATALOGUE_HOST: catalogue.app-dev.hiteshshop.online
+USER_HOST: user.app-dev.hiteshshop.online
+CART_HOST: cart.app-dev.hiteshshop.online
+SHIPPING_HOST: shipping.app-dev.hiteshshop.online
+PAYMENT_HOST: payment.app-dev.hiteshshop.online
+DISPATCH_HOST: dispatch.app-dev.hiteshshop.online
