@@ -5,4 +5,4 @@
 
 
 - name: load cities data
-  ansible.builtin.shell: "mysql -h mysql.app-dev.hiteshshop.online -uroot -pRoboShop@1 < /app/schema/shipping.sql"
+  ansible.builtin.shell: "mysql -h mysql-dev.hiteshshop.online -uroot -pRoboShop@1 < /app/schema/shipping.sql"
